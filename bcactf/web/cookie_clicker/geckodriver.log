@@ -1,0 +1,78 @@
+1560165865498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Pk5ruyZGRPct"
+1560165873249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1560165873249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1560165873461	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1560165873461	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1560165873462	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1560165873477	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1560165873477	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1560165873478	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1560165873487	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1560165873487	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1560165873487	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1560165883162	Marionette	INFO	Listening on port 43371
+1560165883203	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18234, Gecko_IOThread] WARNING: pipe error (132): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 569))
+1560165885442	Marionette	INFO	Stopped listening on port 43371
+1560165896177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6KH0XGxOKLm6"
+1560165897431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1560165897431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1560165898281	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1560165898282	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1560165898282	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1560165898290	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1560165898291	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1560165898292	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1560165898299	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1560165898299	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1560165898300	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1560165902744	Marionette	INFO	Listening on port 42253
+1560165902887	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1560166155102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q9hp5q0BOvCE"
+1560166156613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1560166156613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1560166156943	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1560166156944	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1560166156944	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1560166156974	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1560166156974	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1560166156974	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1560166157013	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1560166157013	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1560166157014	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1560166174086	Marionette	INFO	Listening on port 36613
+1560166175555	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1560166411931	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1560166411933	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1560166411935	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1560166411951	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1560166411952	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1560166411952	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1560166528754	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1560166528762	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1560166528768	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1560166670897	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1560166670899	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1560166670904	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1560166670934	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1560166670934	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1560166670934	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1560166697853	Marionette	INFO	Stopped listening on port 36613
+1560166699435	Marionette	INFO	Stopped listening on port 42253

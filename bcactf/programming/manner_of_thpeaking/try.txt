@@ -1,0 +1,10 @@
+!"#$%&'()*+,-./						0
+0123456789							1
+:;<=>?@								2
+ABCDEFGHIJKLMNOPQRSTUVWXYZ			3
+[\]^_`								4	
+abcdefghijklmnopqrstuvwxyz			5
+{|}~								6
+
+
+bcactf{L157_8453d_pR0gR4Mm1nG_15_4w3S0Me!}

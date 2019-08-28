@@ -1,0 +1,4 @@
+# using host -t txt hole.sketchy.dev 
+
+i found the flag that is :
+ bcactf{d1g-f0r-h073s-w/-dns-8044323}
